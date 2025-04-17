@@ -122,7 +122,7 @@
   <div id="finalScreen">
     <h2>I love you always 🥰</h2>
     <div style="position: relative; width: 100%; height: 100px;">
-      <img id="movingCapybara" src="https://i.postimg.cc/PJNv3KgD/IMG-20250417-112226.jpg" alt="Moving Capybara">
+      <img id="movingCapybara" src="https://i.postimg.cc/HkVx1nvV/IMG-20250417-112226.jpg" alt="Moving Capybara">
     </div>
     <button onclick="showResponseScreen()">Write a Message for Me!</button>
   </div>
