@@ -94,7 +94,7 @@
   <h1>Happy 16 Months, My Love! 🦫</h1>
   <p>Play to catch the capybara for a special message!</p>
   <div id="gameArea">
-    <img id="capybara" src="https://i.postimg.cc/PJNv3KgD/IMG-20250417-112226.jpg" alt="Capybara">
+    <img id="capybara" src="https://i.postimg.cc/HkVx1nvV/IMG-20250417-112226.jpg" alt="Capybara">
   </div>
   <p id="score">Score: 0/5</p>
   <div id="winScreen">
